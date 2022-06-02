@@ -1,0 +1,10 @@
+# Font configuration
+font:
+  # Point size
+  size: 14.0
+
+window:
+  padding:
+   x: 15
+   y: 15
+
