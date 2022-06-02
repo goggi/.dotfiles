@@ -1,0 +1,1 @@
+~/.config/bin/exapps/Bazecor-1.0.0-beta14.AppImage --enable-features=UseOzonePlatform --ozone-platform=wayland & 
