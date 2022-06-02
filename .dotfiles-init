@@ -1,0 +1,13 @@
+sudo apt install inotify-tools
+sudo apt-get -y install pavucontrol
+sudo apt-get -y install ddcutil
+sudo apt-get install lxpolkit
+https://ubuntuhandbook.org/index.php/2021/01/install-linux-mints-web-app-manager-ubuntu-20-04/
+https://www.reddit.com/r/linux4noobs/comments/q6vhac/a_guide_for_discord_screen_sharing_on_wayland/
+
+swayidle
+SwayNotificationCenter
+alacritty
+way-displays
+Waybar
+wob
